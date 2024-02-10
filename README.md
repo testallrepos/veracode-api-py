@@ -1,5 +1,5 @@
 
-# Veracode API Python3355
+# Veracode API Python
 
 Python helper library for working with the Veracode APIs. Handles retries, pagination, and other features of the modern Veracode REST APIs.
 
